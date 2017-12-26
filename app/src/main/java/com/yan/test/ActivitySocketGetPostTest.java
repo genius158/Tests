@@ -19,7 +19,7 @@ import java.net.URLEncoder;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ActivitySocketGetTest extends AppCompatActivity {
+public class ActivitySocketGetPostTest extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
